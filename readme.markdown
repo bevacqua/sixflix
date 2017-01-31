@@ -1,6 +1,6 @@
 # sixflix
 
-> 🎬 Detects whether a browser supports ES6. [Algorithm by Netflix][1].
+> 🎬 Detects whether a host environment supports ES6. [Algorithm by Netflix][1].
 
 # features
 
