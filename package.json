@@ -1,0 +1,19 @@
+{
+  "name": "sixflix",
+  "version": "1.0.0",
+  "description": "Detects whether a browser supports ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevacqua/sixflix.git"
+  },
+  "author": "Nicolás Bevacqua <nico@ponyfoo.com> (https://ponyfoo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevacqua/sixflix/issues"
+  },
+  "homepage": "https://github.com/bevacqua/sixflix#readme"
+}
