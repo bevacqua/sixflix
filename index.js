@@ -11,5 +11,5 @@ module.exports = function () {
       result = false
     }
   }
-  return result instanceof Error
+  return result
 }
