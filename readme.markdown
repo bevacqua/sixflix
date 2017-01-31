@@ -15,7 +15,7 @@ npm install sixflix --save
 
 # api
 
-`require(`sixflix`)` returns a function. calling this function returns `true` if the host environment supports ES6, `false` otherwise.
+`require('sixflix')` returns a function. calling this function returns `true` if the host environment supports ES6, `false` otherwise.
 
 # license
 
